@@ -16,3 +16,5 @@ Ratinchat's menu was made by ratinchat.
 
 Dragon hub was made by blobby and dragonmaster.
 
+TheEncoderDev's menu was made by Theencoderdev.
+
