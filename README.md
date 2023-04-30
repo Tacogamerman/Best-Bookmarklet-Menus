@@ -1,6 +1,5 @@
 # Best-Bookmarklet-Menus
-
-
+These are pretty cool.
 
 # This repo contains 200+ bookmarklets in all!
 This is a collection of all the best bookmarklet menus. Some of contain over 50 bookmarklets
