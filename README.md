@@ -4,6 +4,9 @@
 
 This is a collection of all the best bookmarklet menus, some of them even contain over 50 bookmarklets!
 
+# My discord
+
+https://discord.gg/ujxUzjgQ
 
 # Credits: 
 
