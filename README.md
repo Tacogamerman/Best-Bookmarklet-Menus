@@ -2,8 +2,10 @@
 # Update:
 Added a bookmarklet menu I made which contains all of the menus (And some other scripts I made) together.
 
-If any of the buttons on the site are not functioning properly, you can drag them to your bookmarks bar.
 They are also all stored in one clean ui.
+
+If any of the buttons on the site are not functioning properly, you can drag them to your bookmarks bar.
+
 # This repo contains 200+ bookmarklets!
 
 This is a collection of all the best bookmarklet menus, some of them even contain over 50 bookmarklets!
