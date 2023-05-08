@@ -2,7 +2,7 @@
 # Update:
 Added a bookmarklet menu I made which contains all of the menus (And some other scripts I made) together.
 
-If any of the buttons on it don't work on a site, drag them to your bookmarks bar.
+If any of the buttons on the site are not functioning properly, you can drag them to your bookmarks bar.
 They are also all stored in one clean ui.
 # This repo contains 200+ bookmarklets!
 
