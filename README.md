@@ -12,7 +12,7 @@ This is a collection of all the best bookmarklet menus, some of them even contai
 
 # My discord
 
-https://discord.gg/BMxe6D9CKv
+(https://discord.gg/BMxe6D9CKv)
 
 
 ![Discord](http://invidget.switchblade.xyz/BMxe6D9CKv)
